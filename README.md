@@ -2,16 +2,18 @@
  Continuation of Avali Continued mod for Rimworld
  
  Patch notes:
- -Updated about.xml for update 1.2.
--Fixed issues regarding things_defs_races (thank you, bRektFest!)
--Fixed Avali specific moods being applied to non-avali.
--Changed Avali pack formation.
+ 
+ 	-Updated about.xml for update 1.2.
+	-Fixed issues regarding things_defs_races (thank you, bRektFest!)
+	-Fixed Avali specific moods being applied to non-avali.
+	-Changed Avali pack formation.
 	-Existing race check only checked pawn.def, not pawn.def.race. New check fixes this.
 	-Fixed bug where if multiple pawns were ready to join a pack at the same time, they would all join, bypassing the max pack size check. Existing check for this was unreachable code.
--Probably? Fixed lag caused by hacking weapon. This is not tested yet.
--Added null pointer check to UpdatePackHediff, hopefully fixing an issue with lag that has not been reproducible.
+	-Probably? Fixed lag caused by hacking weapon. This is not tested yet.
+	-Added null pointer check to UpdatePackHediff, hopefully fixing an issue with lag that has not been reproducible.
 
 Balance changes:
+
 -Avali running speed slightly reduced.
 
 

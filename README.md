@@ -11,6 +11,7 @@
 	-Fixed bug where if multiple pawns were ready to join a pack at the same time, they would all join, bypassing the max pack size check. Existing check for this was unreachable code.
 	-Probably? Fixed lag caused by hacking weapon. This is not tested yet.
 	-Added null pointer check to UpdatePackHediff, hopefully fixing an issue with lag that has not been reproducible.
+	-Fixed issue where Avali would break forcing anyone to wear clothes, also non-avali.
 
 Balance changes:
 

@@ -1,5 +1,5 @@
 # Avali Continued
- Continuation of Avali Continued mod for Rimworld
+ Continuation of Avali Continued mod for Rimworld. Currently looking for others to work together with on this.
  
  Patch notes:
  

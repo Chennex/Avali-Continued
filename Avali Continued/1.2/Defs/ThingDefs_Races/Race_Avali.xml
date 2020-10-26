@@ -259,7 +259,9 @@
         <relationChanceModifierSpouse>0</relationChanceModifierSpouse>
         <relationChanceModifierFiance>0</relationChanceModifierFiance>
       </relationSettings>
+	  
       <raceRestriction>
+	  
         <apparelList>
           <li>Avali_Apparel_Rings</li>
           <li>Avali_Apparel_HeadWraps</li>
@@ -280,8 +282,6 @@
           <li>Avali_Apparel_Exosuit</li>
           <li>Avali_Apparel_GuardianArmor</li>
           <li>Avali_Apparel_GuardianHelmet</li>
-          <li>Avali_Apparel_GuardianArmorElite</li>
-          <li>Avali_Apparel_GuardianHelmetElite</li>
           <li>Avali_Apparel_CombatArmor</li>
           <li>Avali_Apparel_CombatHelmet</li>
           <li>Avali_Apparel_CombatArmorElite</li>
@@ -290,16 +290,17 @@
           <li>Avali_Apparel_HellcatHelmet</li>
           <li>Avali_Apparel_HellcatArmorElite</li>
           <li>Avali_Apparel_HellcatHelmetElite</li>
-        </apparelList>
-        <whiteApparelList>
-          <li>Apparel_ShieldBeltAvali</li>
+		  <li>Apparel_ShieldBeltAvali</li>
           <li>Apparel_LifeSupportBeltAvali</li>
+        </apparelList>
+		<onlyUseRaceRestrictedApparel>true</onlyUseRaceRestrictedApparel>
+		
+        <whiteApparelList>
           
           <li>Apparel_TribalA</li>
           <li>Apparel_Parka</li>
           <li>Apparel_Duster</li>
           <li>Apparel_Jacket</li>
-          <li>Apparel_VestPlate</li>
           <li>Apparel_PowerArmor</li>
           <li>Apparel_ArmorRecon</li>
           
@@ -318,43 +319,9 @@
           <li>Apparel_PsychicFoilHelmet</li>
           
           <li>Apparel_ShieldBelt</li>
-          <li>SmokepopBelt</li>
-          
-          <!-- Glittertech Apparel -->
-          <li>Apparel_NanoSuit</li>
-          <li>Apparel_Reactive</li>
-          <li>Apparel_NanoSkin</li>
-          <li>Apparel_NanoSpeed</li>
-          <li>Apparel_OCCombatVest</li>
-          <li>Apparel_HC1Shield</li>
-          <li>Apparel_OCShield</li>
-          
-          <!-- Rimatomics Apparel -->
-          <li>Apparel_RadiationSuit</li>
-          <li>Apparel_MoppSuitDesert</li>
-          <li>Apparel_MoppSuitWoodland</li>
-          <li>Apparel_MoppSuitSnow</li>
-          
-          <!-- Advanced Shield Belts Apparel -->
-          <li>Apparel_QRShieldBelt</li>
-          <li>Apparel_HeavyShieldBelt</li>
-          <li>Apparel_RangedShieldBelt</li>
-          
-          <!-- Dubs Kits stuff -->
-          <li>MedicineBag</li>
-                    <li>MedicalKit</li>
-                    <li>UltraMedKit</li>
-                    <li>DubsRepairKit</li>
-          
-          <!-- Save Our Ship Apparel -->
-          <li>Apparel_SpaceSuitBody</li>
-                    <li>Apparel_SpaceSuitHelmet</li>
-                    <li>Apparel_SpaceSuitBodyHeavy</li>
         </whiteApparelList>
-        <onlyUseRaceRestrictedApparel>true</onlyUseRaceRestrictedApparel>
         
-        <weaponList>
-        </weaponList>
+        
         
         <buildingList>
           <li>AvaliPillow</li>
@@ -364,13 +331,9 @@
           <li>AvaliCarpet4x2c</li>
         </buildingList>
         
-        <recipeList>
-        </recipeList>
         
-        <plantList>
-        </plantList>
-        <!-- Disabled because of HAR2 bug. -->
-        <!-- <researchList>
+        <!-- Disabled because of HAR2 bug. What the fuck is HAR2? Reenabled until I figure this out. 
+        <researchList>
           <li>
             <projects>
                 <li>AvaliCybernetics</li>
@@ -383,8 +346,8 @@
                 <li>AvaliHellcatArmor</li>
             </projects>
           </li>
-        </researchList> -->
-        
+        </researchList>
+        -->
       </raceRestriction>
       <thoughtSettings>
         <cannotReceiveThoughts>

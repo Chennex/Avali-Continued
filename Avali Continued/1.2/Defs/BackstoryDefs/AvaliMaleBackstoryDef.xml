@@ -36,7 +36,7 @@
   <ThingDef Name="AvaliMaleAvaliIlluminateChild" Abstract="True">
     <title>Illuminate child</title>
     <titleShort>Illuminate</titleShort>
-    <baseDescription>Placeholder</baseDescription>
+    <baseDescription>Born on the Avali homeworld, [PAWN_nameDef] had a comfortable upbringing with [PAWN_pronoun] her childhood pack.</baseDescription>
     <slot>Childhood</slot>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
     <maleCommonality>100</maleCommonality>
@@ -47,7 +47,7 @@
     <skillGains>
       <li>
         <defName>Social</defName>
-        <amount>6</amount>
+        <amount>4</amount>
       </li>
       <li>
         <defName>Medicine</defName>
@@ -86,15 +86,15 @@
       </li>
       <li>
         <defName>Medicine</defName>
-        <amount>2</amount>
+        <amount>3</amount>
       </li>
       <li>
         <defName>Shooting</defName>
-        <amount>8</amount>
+        <amount>6</amount>
       </li>
       <li>
         <defName>Melee</defName>
-        <amount>6</amount>
+        <amount>5</amount>
       </li>
     </skillGains>
     <!-- <workDisables>
@@ -127,7 +127,7 @@
       </li>
       <li>
         <defName>Shooting</defName>
-        <amount>12</amount>
+        <amount>10</amount>
         </li>
       <li>
         <defName>Melee</defName>
@@ -163,7 +163,7 @@
     <skillGains>
       <li>
         <defName>Social</defName>
-        <amount>12</amount>
+        <amount>10</amount>
       </li>
       <li>
         <defName>Construction</defName>
@@ -191,7 +191,7 @@
   <ThingDef Name="AvaliMaleLostEgg" Abstract="True">
     <title>Lost egg</title>
     <titleShort>Lost egg</titleShort>
-    <baseDescription>Placeholder</baseDescription>
+    <baseDescription>Forgotten and abandoned even before hatching, [PAWN_nameDef] never had a chance for a normal life. Growing up on [PAWN_possessive] own, [PAWN_pronoun] learned basic survival skills, at the cost of never learning to properly socialize. </baseDescription>
     <slot>Childhood</slot>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
     <maleCommonality>100</maleCommonality>
@@ -287,7 +287,7 @@
   <ThingDef Name="AvaliMaleCoreChild" Abstract="True">
       <title>Illuminate core child</title>
       <titleShort>Core Child</titleShort>
-      <baseDescription>Placeholder</baseDescription>
+      <baseDescription>[PAWN_nameDef] grew up on one of the illuminate core worlds.</baseDescription>
       <slot>Childhood</slot>
       <bodyTypeGlobal>Thin</bodyTypeGlobal>
       <maleCommonality>100</maleCommonality>

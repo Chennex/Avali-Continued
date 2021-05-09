@@ -11,11 +11,21 @@
 
 C# and XML code by Erisss
 Graphics by FacePlus
-Maintained by Ksisa
+Formerly maintained by Ksisa
+Currently maintained by Chennex/XY78
 Avali race by RyuujinZERO
 
 
-The mod is an edit to the Avali mod https://steamcommunity.com/sharedfiles/filedetails/?id=1314474881 
+The mod is an edit to the Avali mod https://steamcommunity.com/sharedfiles/filedetails/?id=1314474881
+
+There are a few kinks that still need to be worked out:
+Some backstories have placeholder text.
+Lovin' does not currently happen.
+Small meals do not seem to ever rot.
+
+If you run into any issues besides these, please report these on the issues page of the github here: https://github.com/Chennex/Avali-Continued/issues
+
+If you want to join in development, hit me up.
 </description>
   <modDependencies>
     <li>

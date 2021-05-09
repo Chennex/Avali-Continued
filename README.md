@@ -22,4 +22,3 @@ Todo:
 Apparently there is a bug where raiders try to rescue downed pawns and are unable to leave the map. Haven't been able to reproduce, need some logs.
 Texture glitch running sideways on running track. No idea what's causing this.
 Fix some debug log warnings that come up due to improperly implementing support for various mods. The warnings only come up if you do not have those mods, and they do not affect anything.
-The advanced armors are currently disabled. These need to be undisabled and the issues with them fixed.

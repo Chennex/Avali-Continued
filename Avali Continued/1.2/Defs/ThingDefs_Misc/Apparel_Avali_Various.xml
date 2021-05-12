@@ -567,7 +567,6 @@
 			<tags>
         <li>AvaliSpacer</li>
         <li>AvaliScout</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
@@ -621,7 +620,6 @@
 			</layers>
 			<tags>
         <li>AvaliExosuit</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
@@ -630,7 +628,7 @@
 	<ThingDef ParentName="AvaliArmorMakeableBase">
     <defName>Avali_Apparel_GuardianArmor</defName>
     <label>avali "Guardian" combat suit</label>
-    <description>The biggest known design of Avali combat suit, weighting as much as a small car and being able to ram though the toughest of walls. \n\nCommonly used in frontlines assaults, plantary invasions, and heavy guard duty, other then that the suit is too impractical for anything else.</description>
+    <description>The biggest known design of Avali combat suit, weighing as much as a small car and being able to ram though the toughest of walls. \n\nCommonly used in frontlines assaults, plantary invasions, and heavy guard duty, other then that the suit is too impractical for anything else.</description>
     <techLevel>Ultra</techLevel>
     <recipeMaker>
       <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
@@ -751,7 +749,6 @@
 			</layers>
 			<tags>
         <li>AvaliMilitary</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
@@ -829,7 +826,6 @@
       <tags>
         <li>AvaliAssassin</li>
         <li>AvaliStalker</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>

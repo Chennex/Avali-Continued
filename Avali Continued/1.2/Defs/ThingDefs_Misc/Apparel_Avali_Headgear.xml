@@ -379,7 +379,6 @@
 			</layers>
 			<tags>
         <li>AvaliTank</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
@@ -439,7 +438,6 @@
 			</layers>
 			<tags>
         <li>AvaliMilitary</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
@@ -512,7 +510,6 @@
       </layers>
       <tags>
         <li>AvaliAssassin</li>
-        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
